@@ -1,0 +1,4 @@
+/target
+/napcat
+.env
+docker-compose.yml

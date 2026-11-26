@@ -1,0 +1,23 @@
+{
+    "network": {
+        "websocketClients": [
+            {
+                "name": "danmaku",
+                "enable": true,
+                "url": "ws://danmaku-server:5099/onebot",
+                "messagePostFormat": "array",
+                "reportSelfMessage": true,
+                "reconnectInterval": 5000,
+                "token": "",
+                "debug": false,
+                "heartInterval": 15000
+            }
+        ],
+        "websocketServers": [],
+        "httpClients": [],
+        "httpServers": []
+    },
+    "musicSignUrl": "",
+    "enableLocalFile2Url": false,
+    "parseMultMsg": true
+}

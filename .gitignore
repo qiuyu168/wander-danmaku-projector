@@ -1,0 +1,11 @@
+﻿**/.env
+**/.env.*
+!**/.env.template
+!**/.env.example
+**/napcat/
+**/node_modules/
+**/target/
+**/dist/
+desktop/release/
+desktop/artifacts/
+*.log
